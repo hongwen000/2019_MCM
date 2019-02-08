@@ -1,0 +1,49 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Background}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Our Work}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Fundamental Assumptions}{3}{section.2}
+\contentsline {section}{\numberline {3}Notations and Descriptions}{5}{section.3}
+\contentsline {section}{\numberline {4}The game theory based selfish evacuation model}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Theoretical Framework}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Model Analysis}{6}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Representation of The Louvre}{6}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Model Description}{6}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Model Iteration}{8}{subsubsection.4.2.3}
+\contentsline {subsection}{\numberline {4.3}Experiment}{8}{subsection.4.3}
+\contentsline {paragraph}{Estimated number of people inside the building}{8}{section*.3}
+\contentsline {paragraph}{Simulation Results}{8}{section*.4}
+\contentsline {section}{\numberline {5}Network flow based global optimization model}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1}Model Analysis}{9}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Problem transformation}{9}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Charactersitics of arcs capacity}{9}{subsubsection.5.1.2}
+\contentsline {paragraph}{The instant flow capacity }{9}{section*.7}
+\contentsline {paragraph}{Maximum flow in the arc }{10}{section*.8}
+\contentsline {paragraph}{Accumulative flow}{10}{section*.9}
+\contentsline {subsection}{\numberline {5.2}Experiment}{10}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Improvements}{10}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Coordinate efficiency and safety}{10}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Evacuations path for people with restricted mobility}{10}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Arrival for emergency personnel}{11}{subsubsection.5.3.3}
+\contentsline {subsection}{\numberline {5.4}Bottlenecks}{11}{subsection.5.4}
+\contentsline {section}{\numberline {6}Technical Facilitation}{12}{section.6}
+\contentsline {subsection}{\numberline {6.1}App, such as "Affluences"}{12}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Autonomous Navigation System using Mobile Phones}{12}{subsection.6.2}
+\contentsline {section}{\numberline {7} Utilizing other entrances}{13}{section.7}
+\contentsline {subsection}{\numberline {7.1}Entrance for the emergency personnel}{13}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Egress for the visitors}{13}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}Benefits}{13}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}Shortages}{14}{subsubsection.7.2.2}
+\contentsline {subsection}{\numberline {7.3}Appropriate Solution}{14}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}When to use}{14}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}How to use}{15}{subsubsection.7.3.2}
+\contentsline {section}{\numberline {8}Sensibility}{15}{section.8}
+\contentsline {section}{\numberline {9}Scalibility}{15}{section.9}
+\contentsline {section}{\numberline {10}Model evaluation}{16}{section.10}
+\contentsline {subsection}{\numberline {10.1}Evaluation on the game theory based model}{16}{subsection.10.1}
+\contentsline {paragraph}{Strengths}{16}{section*.14}
+\contentsline {paragraph}{Weakness}{16}{section*.15}
+\contentsline {subsection}{\numberline {10.2}Evaluation on the optimized evacuation time model}{17}{subsection.10.2}
+\contentsline {paragraph}{Strengths}{17}{section*.16}
+\contentsline {paragraph}{Weakness}{17}{section*.17}
+\contentsline {section}{\numberline {11}Future work}{17}{section.11}
+\contentsline {section}{\numberline {12}Reference}{19}{section.12}

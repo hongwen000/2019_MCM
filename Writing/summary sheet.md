@@ -1,0 +1,14 @@
+\begin{abstract}
+The world has witnessed the rise of terrorist attacks since the 21st century. Terrorists have stretched their claws from hazardous to peaceful regions, especially Europe. The incident of terror attacks in the Louvre arouses our reconsideration of emergency evacuation plans of famous sites. Modeling emergency evacuation plans, which is crucial to tackling the problem, is an intricate issue concerning the capacity of the flow and clearance time of evacuation. Therefore we construct a game theory based individual behavior simulation model to calculate individual optimum evacuation solution. After evaluation, we revise the previous model and come up with vacuation time optimization model using network analysis methodology to make precise simulation aiming to figure out an efficient evacuation plan.
+
+In the first place, we establish a game theory based model to calculate the optimum evacuation plans for all the evacuees individually. The model will simulate the point where everyone chooses selfish strategy after iteration, which achieves the Nash equilibrium. Nevertheless, under the game theory model, assumed homogeneity of objects limits the model’s explanatory scope. Hence, we adjust our presumptions and revise our model. 
+
+Next, inspired by network flow, we set up an optimized evacuation time model. This model is capable of coordinate every individual's optimal choice together with the population density and their travel speed. By collecting and calculating the statistics collected from Google map, we figure out the optimal evacuation time is (). So we go on with the modified model to unravel the optimization evacuation time under restrictions.
+
+For the disabled and the elder, we introduce parallel edges to provide efficient path for them to evacuate. We divide an edge into two parts, one of which has a lower travel speed. In this way, our model can simulate the situation when the disabled and the elder are involved into the evacuation.
+
+For the emergency personnel, we introduce reversed edges to defuse the convection problem. This create a bidirection network, with opposite travel direction. By adding reversed edges, our model can analyze the optimal evacuation time with emergency personnel entering the building.
+
+In addition, we testify our model's sensibility and scalability. When potential threats block out segments of the evacuation path, we expand the scale of nodes and we can get reliable results. As for scalability, our model can be applied to the Metropolitan Museum as well. Using data collected from Google map, we can estimate the optimal evacuation time, which we will state in the latter part of our work.
+
+Finally, we propose some workable recommendations both on emergency evacuation and crowds management based on our models. Among those suggestions, keeping upgrade with new issues for evacuation plans and improving the flow control algorithm are of great importance.
